@@ -3,6 +3,23 @@
     "displayName": "Demon Slayer Theme",
     "description": "Demon Slayer inspired VS Code Theme",
     "version": "0.0.1",
+    "publisher": "casseopeian",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/carnaluna/demon-slayer-theme"
+    },
+    "keywords": [
+        "theme",
+        "dark theme",
+        "casseopeian",
+        "casseopeian dark",
+        "demon slayer",
+        "demon-slayer",
+        "demon slayer theme",
+        "demon slayer inspired",
+        "nezuko",
+        "tanjiro"
+    ],
     "engines": {
         "vscode": "^1.56.0"
     },
