@@ -154,11 +154,11 @@
 		"sideBarSectionHeader.border": "#30304860",
 		"sideBarSectionHeader.foreground": "#C0D8F0",
 		"sideBarTitle.foreground": "#A8D8D8",
-		"statusBar.background": "#487878",
+		"statusBar.background": "#24243f",
 		"statusBar.border": "#30304860",
 		"statusBar.debuggingBackground": "#607890",
 		"statusBar.debuggingForeground": "#F0F0F0",
-		"statusBar.foreground": "#042c2c",
+		"statusBar.foreground": "#A2A2BD",
 		"statusBar.noFolderBackground": "#303048",
 		"statusBarItem.hoverBackground": "#568a8ad2",
 		"statusBarItem.remoteBackground": "#301818",
@@ -195,11 +195,11 @@
 		"terminalCursor.foreground": "#C80078",
 		"textLink.activeForeground": "#A8D8D8",
 		"textLink.foreground": "#d851a2c7",
-		"titleBar.activeBackground": "#303048",
-		"titleBar.activeForeground": "#A8D8D8",
+		"titleBar.activeBackground": "#24243f",
+		"titleBar.activeForeground": "#A2A2BD",
 		"titleBar.border": "#30304860",
 		"titleBar.inactiveBackground": "#303048",
-		"titleBar.inactiveForeground": "#301818",
+		"titleBar.inactiveForeground": "#A2A2BD",
 		"tree.indentGuidesStroke": "#607878",
 		"widget.shadow": "#30304830",
 	  },
@@ -342,7 +342,7 @@
 			"comment.block.html"
 		  ],
 		  "settings": {
-			"foreground": "#6D6F7C"
+			"foreground": "#bcbfd3"
 		  }
 		},
 		{
@@ -633,7 +633,7 @@
 			"support.type.property-name.json"
 		  ],
 		  "settings": {
-			"foreground": "#A8D8D8"
+			"foreground": "#C80078"
 		  }
 		},
 		{
@@ -676,7 +676,7 @@
 			"entity.name.section.markdown"
 		  ],
 		  "settings": {
-			"foreground": "#303048",
+			"foreground": "#a2a2bd",
 			"fontStyle": "bold"
 		  }
 		},
