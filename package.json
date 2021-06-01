@@ -2,7 +2,7 @@
     "name": "demon-slayer-theme",
     "displayName": "Demon Slayer Theme",
     "description": "Demon Slayer inspired VS Code Theme",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "casseopeian",
     "repository": {
         "type": "git",
