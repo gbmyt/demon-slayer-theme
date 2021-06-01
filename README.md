@@ -7,4 +7,4 @@
 
 ## Screenshots
 
-(C:\Users\gbmyt\Downloads\html.png)
+![html image](https://monosnap.com/file/xcDJ6OhJoGnH0U2Pd8fTm49ovyY61f)
