@@ -9,4 +9,4 @@
 
 HTML
 
-![html](https://user-images.githubusercontent.com/48141726/120277385-fdd38680-c281-11eb-9b9b-84a3fbf3c9d2.png)
+![html](https://user-images.githubusercontent.com/48141726/120277595-40955e80-c282-11eb-9660-7fab6cd87be0.png)
