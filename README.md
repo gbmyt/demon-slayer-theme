@@ -7,4 +7,4 @@
 
 ## Screenshots
 
-![alt text](C:\Users\gbmyt\Downloads\html.png)
+(C:\Users\gbmyt\Downloads\html.png)
